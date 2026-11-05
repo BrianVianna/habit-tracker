@@ -4,7 +4,7 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/',[SiteController::class, 'index']);
 
-
+    
 //mvc
 // model -> db, banco de dados
 // view -> forntend, UI, interface q o usuario vê html;
